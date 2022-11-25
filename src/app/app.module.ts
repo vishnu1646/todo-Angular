@@ -20,7 +20,7 @@ const myRoute :Routes =[
   {
     path:"Navbar",
     component:NavbarComponent
-  }
+  },
 ]
 
 @NgModule({
